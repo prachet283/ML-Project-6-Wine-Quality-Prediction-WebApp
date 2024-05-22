@@ -25,7 +25,7 @@ Test Data Accuracy : 85%
 The trained model is bit overfit but as this a simple project for learning it does not affect much
 
 Deployment
-The application is deployed using Streamlit. You can access it here = https://whwx7rd4djvybbssmelb6b.streamlit.app/
+The application is deployed using Streamlit. You can access it here = https://ml-project-6-wine-quality-prediction-vpwk6uj5u6itbv9fixptt2.streamlit.app/
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
